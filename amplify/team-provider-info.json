@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "learnaws708a61c9": {}
+      },
+      "api": {
+        "learnaws": {}
+      },
+      "storage": {
+        "s329499ebc": {}
       }
     }
   }
